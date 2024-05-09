@@ -1,6 +1,9 @@
 # Alura-AI-Immersion-Project
 This repository is my project to the Alura AI Immersion course
 
+# Nice to meet you, I'm Minute Mister
+## I going to solve your problems from your meeting minutes
+
 ### Your AI-powered meeting minutes generator that saves you time and ensures accuracy.
 ## Never miss a detail again!
 
